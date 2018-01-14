@@ -70,3 +70,15 @@ li:hover{
     background: rgba(0,0,0,0.2);
 }
 
+/* Small devices (tablets, 768px and up) */
+@media (max-width: 768px) { 
+  #section0 .pad0{
+    width: 100%;
+  }
+ }
+@media (max-width: 768px) { 
+  #section0 .pad1{
+    padding: 15px;
+    width: 55%;
+  }
+ }
